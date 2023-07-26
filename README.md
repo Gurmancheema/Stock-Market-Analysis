@@ -2,8 +2,8 @@
 
 ## Table of Contents :bookmark_tabs:
 
-- [Description](#description)
-- [Technologies Used](#technologies-used)
+- [Description](#Description)
+- [Technologies Used](#Technologies-used)
 - [Installation](#installation)
 - [Data Scraping](#data-scraping)
 - [Data Transformation and Cleaning](#data-transformation-and-cleaning)
