@@ -2,7 +2,7 @@
 
 ## Table of Contents :bookmark_tabs:
 
-- [Description](#Description)
+- [Description](#description-:clipboard:)
 - [Technologies Used](#Technologies-used)
 - [Installation](#installation)
 - [Data Scraping](#data-scraping)
