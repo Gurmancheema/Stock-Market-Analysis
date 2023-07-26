@@ -5,7 +5,7 @@
 - [Description](#description-clipboard)
 - [Technologies Used](#technologies-used-computer)
 - [Installation](#installation-floppy_disk)
-- [Data Scraping](#data-scraping-mag_right)
+- [Data Scraping](#data-scraping)
 - [Data Transformation and Cleaning](#data-transformation-and-cleaning-recycle)
 - [Data Visualization](#data-visualization-bar_chart)
 - [Dashboard in Power BI](#dashboard-in-power-bi-chart_with_downwards_trend)
