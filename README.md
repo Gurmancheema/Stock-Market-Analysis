@@ -3,12 +3,12 @@
 ## Table of Contents :bookmark_tabs:
 
 - [Description](#description-clipboard)
-- [Technologies Used](#Technologies-used)
-- [Installation](#installation)
-- [Data Scraping](#data-scraping)
-- [Data Transformation and Cleaning](#data-transformation-and-cleaning)
-- [Data Visualization](#data-visualization)
-- [Dashboard in Power BI](#dashboard-in-power-bi)
+- [Technologies Used](#technologies-used-computer)
+- [Installation](#installation-floppy_disk)
+- [Data Scraping](#data-scraping-mag_right)
+- [Data Transformation and Cleaning](#data-transformation-and-cleaning-recycle)
+- [Data Visualization](#data-visualization-bar_chart)
+- [Dashboard in Power BI](#dashboard-in-power-bi-chart_with_downwards_trend)
 
 ## Description :clipboard:
 
